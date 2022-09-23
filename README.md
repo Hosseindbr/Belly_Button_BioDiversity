@@ -26,5 +26,6 @@ iv. Washing frequency is represented by a gauge chart, indicating how many scrub
 v. On the bubble chart, bubble size indicates the amount and diversity of bacteria in the sample.
 
 ## Interactive Webpage
-The project is deployed to the bellow GitHub link
+The project is deployed to the bellow GitHub link:
+https://hosseindbr.github.io/Belly_Button_Biodiversity/
 
